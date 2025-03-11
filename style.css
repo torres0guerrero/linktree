@@ -76,6 +76,7 @@ color: #a0a0a0; }
     flex: 1;
     border: 1px solid #ccc;
     padding: 5px;
+    font-family: 'minecraft', sans-serif;
 }
 
 .browser-content {
