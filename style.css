@@ -104,7 +104,7 @@ color: #a0a0a0; }
 }
 
 .username {
-    font-size: 24px;
+    font-size: 23px;
     font-weight: bold;
     color: #FFB6C1;
 }
@@ -145,7 +145,7 @@ color: #a0a0a0; }
     padding: 15px;
     border-radius: 30px;
     text-align: center;
-    font-size: 20px;
+    font-size: 12px;
     font-weight: bold;
     text-decoration: none;
     color: white;
@@ -164,4 +164,7 @@ color: #a0a0a0; }
     src: url('minecraft.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
+}
+p {
+    font-size: 12px;
 }
