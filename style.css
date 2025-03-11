@@ -50,11 +50,11 @@ body {
     border: 1px solid black;
 }
 
-.close {  background-color: #ffffff;
+.close {  background-color: #000000;
     color: #a0a0a0; }
-.minimize { background-color: #ffffff;
+.minimize { background-color: #000000;
 color: #a0a0a0; }
-.maximize { background-color: rgb(255, 255, 255);
+.maximize { background-color: rgb(0, 0, 0);
     color: #a0a0a0; }
 
 .browser-address-bar {
