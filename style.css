@@ -155,6 +155,8 @@ color: #a0a0a0; }
 .pink { background-color: #FFB6C1; }
 .peach { background-color: #FFDAB9; }
 .blue { background-color: #BCCEFF; }
+.green { background-color: #BBECFA;}
+.grey { background-color: #BBBBBB;}
 
 .custom-button:hover {
     opacity: 0.8;
