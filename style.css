@@ -50,11 +50,12 @@ body {
     border: 1px solid black;
 }
 
-.close {  background-color: red;
-    color: white; }
-.minimize { background-color: yellow; }
-.maximize { background-color: green;
-    color: white; }
+.close {  background-color: #ffffff;
+    color: #a0a0a0; }
+.minimize { background-color: #ffffff;
+color: #a0a0a0; }
+.maximize { background-color: rgb(255, 255, 255);
+    color: #a0a0a0; }
 
 .browser-address-bar {
     display: flex;
